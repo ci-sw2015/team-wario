@@ -2,7 +2,7 @@
 
 ![Team Luigi Logo](docs/wario.png)
 
-Let's do this!!!!11
+Let's do this!!!1
 
 ## Fragen
 
